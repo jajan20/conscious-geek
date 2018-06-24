@@ -32,3 +32,18 @@ After someone likes your code back and you've been matched up you get to see a p
 Biases still happen, that's something that happens naturally. But by using programming language as a base to work with. I think people sharing the same interests are less likely to judge how someone looks. But instead can support each other by giving feedback on code snippets.
 
 > Acquisti, A. (2013, June). Why privacy matters [Video file]. Retrieved June 1, 2018, from https://www.ted.com/talks/alessandro_acquisti_why_privacy_matters?language=nl
+
+## Second design decision
+Tristan Harris talks about how our smartphones are like small slot machines. Getting us addicted, every time you pull to refresh you're left hanging for more. With a couple of steps, I tried to make my app more user-friendly by focusing the core to a specific target group. Programmers in this case.
+
+I wanted people with a passion or hobby to find each other and create a meaningful relationship without the app being intrusive. 
+
+My initial idea was to make a dating app for programmers which focuses solely on finding a date. After some user tests with different people, I figured out that my app wasn't just for dates. People with the love for coding could find each other and create friendships, or relationships. This meant that the fundamental of the app changed. 
+
+The reason why users would join my app wasn't to find the perfect partner. Which adds a lot of pressure on both sides. But to find someone that helps you. Shifting this idea showed that people felt less pressure while using my app and didn't feel the need "pull the lever" of their so-called slot machine. An added benefit was that some who liked the idea of the app so much and wanted to use it more frequently found people they could actually work with. So now, instead of being distracted by your dating app. It could help you find someone that adds value in a way that works with your project.
+
+On the flip side, this project made me realize there are a lot of things I still lack and I made everything as good as I could. I know in the future I would like to add more functions that help you stay focused on a task and still makes it fun to use my app.
+
+For example, it is possible to send a match a message. This is done through email, which means that once you send it there's no way of knowing what the other person is doing when receiving that message. I'm a programmer myself and I always get distracted by things popping up on my screen. After I saw Tristan Harris speak I became even more aware of how this affects other people. The most important function I want to add later down the road is a messaging system which you can set to do not disturb so that the other user knows you're working but can still message you what's on his or her mind.
+
+> Harris, T. (2016, July 14). How better tech could protect us from distraction [Video file]. Retrieved June 3, 2018, from https://www.youtube.com/watch?v=D55ctBYF3AY&feature=youtu.be
