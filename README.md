@@ -1,12 +1,12 @@
 ## Table of contents
 
-- [About CODE.Love](#about-code-love)
+- [About the app](#about-the-app)
 - [First design decision](#first-design-decision)
 - [Second design decision](#second-design-decision)
 - [Third design decision](#third-design-decision)
 - [Other sources](#other-sources)
 
-## About CODE.LOVE
+## About the app
 CODE.LOVE was inspired by a lecture from Titus Wormer about Git and Github which he gave at the start of my minor. He shared with us, the story of how he met his girlfriend. Which was through the use of Github.
 
 At the start of this year, I really dived into the world of HTML, CSS, javascript, frameworks and everything else that belongs with developers and programmers. I quickly found out that everyone is really passionate about the things they do, but also that there are no middle grounds when it comes to code conventions. 
@@ -26,6 +26,9 @@ Not using spaces, but single quotes and a semicolon
 console.log ('Hello World');
 ```
 Everyone is so different and likes to write code in their own way. How cool would it be if you found someone that does it exactly the same way?
+
+![Silicon Valley - Tabs vs Spaces argument](https://github.com/jajan20/conscious-geek/blob/master/media/tabs-spaces-screenshot.png?raw=true)
+> https://www.youtube.com/watch?v=SsoOG6ZeyUI
 
 ## First design decision
 In his talk about why privacy matters Alessandro Acquisti shows us that even though a lot of people blindly accept the fact that they need to share their personal information and don't really think about what the consequences are. They shouldn't give up their right to privacy that easily. The argument is that I've got nothing to hide. But not having anything to hide doesn't mean personal information can't be sensitive information.
@@ -77,7 +80,7 @@ In my app, I decided to not add any notifications outside of the app itself. Jus
 
 > Eyal, N. (2015, July 11). Un-Hooked: Increasing Focus in the Age of Distraction [Video file]. Retrieved June 3, 2018, from https://www.youtube.com/watch?v=1j2Wg3kwZIk&feature=youtu.be
 
-## Sources
+## Other sources
 - [Stefana Broadbent: How the internet enables intimacy](https://www.ted.com/talks/stefana_broadbent_how_the_internet_enables_intimacy?language=nl)
 - [Sherry Turkle: Alone together?](https://www.ted.com/talks/sherry_turkle_alone_together?language=nl)
 - [Alessandro Acquisti: Why privacy matters](https://www.ted.com/talks/alessandro_acquisti_why_privacy_matters?language=nl)
