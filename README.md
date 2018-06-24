@@ -52,17 +52,17 @@ For example, it is possible to send a match a message. This is done through emai
 ## Third design decision
 Third design decision comes from Nir Eyal who inspired me to be mindful of the app I'm developing. In his TED talk, he explains the Hook principle which ensures that people continue using your app because the users get "hooked" on your app. The hook principle has 4 stages which, if followed correctly can continue over and over again.
 
-- 1 Trigger
+#### 1. Trigger
 This can either be an external or internal trigger. An external trigger, for example, is activated by buttons with the text "click here" or "read now". An internal one is something that can be triggered by memory.
 
-- 2 Action
+#### 2. Action
 <pre>"This can be the simplest behavior anticipating a reward" - Nir Eyal.</pre>
 While he explained what we could do about this. How we could stop or unintended behavior I thought that, although he had some good tips. Company's designing these apps should be responsible for creating this behavior.
 
-- 3 Reward
+#### 3. Reward
 This is the actual reward, your message getting through. Someone replying to your WhatsApp. A new article in your news feed.
 
-- 4 Investment
+#### 4. Investment
 By showing you things like "name" is typing, or small notifications icons on your home screen apps keep you invested.
 
 During his talk Nir Eyal gives a couple of tips one of them was reading your Gmail through the web browser so it is harder to get to your mail which in turn keeps you from doing this too much. Again I think this is a good tip, but I believe there is a layer above this that we're missing. Ask yourself the question, why do I keep doing this action? Getting email is important and I'm sure this example doesn't fit everyone. But I think to make it harder for yourself to use an app because otherwise, you'd spend to much time on it is something a designer/developer should be thinking about.
