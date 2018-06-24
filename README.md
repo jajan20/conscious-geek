@@ -1,25 +1,31 @@
 ## Table of contents
 
-- [Stappenplan](#stappenplan)
-- [Sources](#sources)
+- [About CODE.Love](#about-code-love)
 - [First design decision](#first-design-decision)
-- [Second design decision](#second-design-decision) 
+- [Second design decision](#second-design-decision)
+- [Third design decision](#third-design-decision)
+- [Other sources](#other-sources)
 
-## Stappenplan 
+## About CODE.LOVE
+CODE.LOVE was inspired by a lecture from Titus Wormer about Git and Github which he gave at the start of my minor. He shared with us, the story of how he met his girlfriend. Which was through the use of Github.
 
-1. [ ] Server en database aan de praat krijgen (hello world)
-2. [ ] Profileldata uit de batabase tonen (detailweergave, lijstweergave)
-3. [ ] Rollen en autorisatie toepassen (anoniem, ingelogd)
-4. [ ] Zoeken en matchen
-5. [ ] Relates aangaan
-6. [ ] Berichten uitwisselen
+At the start of this year, I really dived into the world of HTML, CSS, javascript, frameworks and everything else that belongs with developers and programmers. I quickly found out that everyone is really passionate about the things they do, but also that there are no middle grounds when it comes to code conventions. 
 
-## Sources
-- [Stefana Broadbent: How the internet enables intimacy](https://www.ted.com/talks/stefana_broadbent_how_the_internet_enables_intimacy?language=nl)
-- [Sherry Turkle: Alone together?](https://www.ted.com/talks/sherry_turkle_alone_together?language=nl)
-- [Alessandro Acquisti: Why privacy matters](https://www.ted.com/talks/alessandro_acquisti_why_privacy_matters?language=nl)
-- [Nir Eyal: Un-Hooked - Increasing Focus in the Age of Distraction](https://www.youtube.com/watch?v=1j2Wg3kwZIk&feature=youtu.be)
-- [Tristan Harris: How better tech could protect us from distraction](https://youtu.be/D55ctBYF3AY)
+As I started a group project I learned that something as simple as using a semicolon or not can already bring a huge discussion between people. Just a few quick examples that greatly depends on the preference of the developer.
+
+Not using any spaces or semicolons
+```js 
+console.log('Hello World')
+```
+Using spaces and double quotes
+```js
+console.log ( "Hello World" )
+```
+Not using spaces, but single quotes and a semicolon
+```js
+console.log ('Hello World');
+```
+Everyone is so different and likes to write code in their own way. How cool would it be if you found someone that does it exactly the same way?
 
 ## First design decision
 In his talk about why privacy matters Alessandro Acquisti shows us that even though a lot of people blindly accept the fact that they need to share their personal information and don't really think about what the consequences are. They shouldn't give up their right to privacy that easily. The argument is that I've got nothing to hide. But not having anything to hide doesn't mean personal information can't be sensitive information.
@@ -70,3 +76,10 @@ During his talk Nir Eyal gives a couple of tips one of them was reading your Gma
 In my app, I decided to not add any notifications outside of the app itself. Just as an experiment. Cause I know a lot of people like receiving their notification on their home screen. This way I want to give users back control of how and when they use my app. They won't be externally triggered to keep coming back. I want developers/programmers to find someone with whom they can share their passion for code with. And if one person succeeds while using my app then I think my app has been successful.
 
 > Eyal, N. (2015, July 11). Un-Hooked: Increasing Focus in the Age of Distraction [Video file]. Retrieved June 3, 2018, from https://www.youtube.com/watch?v=1j2Wg3kwZIk&feature=youtu.be
+
+## Sources
+- [Stefana Broadbent: How the internet enables intimacy](https://www.ted.com/talks/stefana_broadbent_how_the_internet_enables_intimacy?language=nl)
+- [Sherry Turkle: Alone together?](https://www.ted.com/talks/sherry_turkle_alone_together?language=nl)
+- [Alessandro Acquisti: Why privacy matters](https://www.ted.com/talks/alessandro_acquisti_why_privacy_matters?language=nl)
+- [Nir Eyal: Un-Hooked - Increasing Focus in the Age of Distraction](https://www.youtube.com/watch?v=1j2Wg3kwZIk&feature=youtu.be)
+- [Tristan Harris: How better tech could protect us from distraction](https://youtu.be/D55ctBYF3AY)
